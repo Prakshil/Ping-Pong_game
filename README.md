@@ -1,4 +1,4 @@
-# Simple Pong Game
+# Simple PingPong Game
 
 A classic Pong game implementation using HTML5 Canvas and JavaScript. Play against an AI opponent using mouse controls!
 
